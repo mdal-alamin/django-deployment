@@ -1,0 +1,6 @@
+/home/username/your_repo/project_name
+1./home/mdalamin/django-deployment/My Second Project/My_Second_Project
+2. My_Second_Project
+3. login_env
+
+http://mdalamin.pythonanywhere.com/
